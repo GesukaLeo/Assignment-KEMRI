@@ -1,4 +1,10 @@
 body {
-    color: lawngreen;
+    color: rgb(137, 155, 119);
     background-color: black;
+}
+
+h1 {
+
+    background-color: blanchedalmond;
+    color: black;
 }
